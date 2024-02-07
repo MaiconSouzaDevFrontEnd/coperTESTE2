@@ -1,0 +1,10 @@
+/* css genéricos */
+.flex {
+    display: flex;
+}
+
+.container {
+    max-width: 1040px;
+    width: 100%;
+    margin: 70px auto;
+}
